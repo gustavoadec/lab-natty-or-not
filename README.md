@@ -1,19 +1,22 @@
 
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Importância tecnológica
+Linguagens como ferramentas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de apresentação de slides com  IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+chat GPT para edição de textos
+slidesgo para criação da apresentação
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+apos feito pesquisa na internet foi encaminhado para chat gpt texto para criação de topicos
+com topicos criados foi colocado no slideso ra cração da apresentação
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Arqivo em pdf na pasta projetoslide
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
