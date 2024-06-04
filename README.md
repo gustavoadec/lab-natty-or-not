@@ -16,7 +16,7 @@ apos feito pesquisa na internet foi encaminhado para chat gpt texto para criaç�
 com topicos criados foi colocado no slideso ra cração da apresentação
 
 ## 🚀 Resultados
-Arqivo em pdf na pasta projetoslide
+Arquivo em pdf projetoslide
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
